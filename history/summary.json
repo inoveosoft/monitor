@@ -4,19 +4,19 @@
     "url": "https://www.inoveo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2749,
-    "timeDay": 2749,
-    "timeWeek": 2749,
-    "timeMonth": 2749,
-    "timeYear": 2749,
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
+    "time": 2699,
+    "timeDay": 2699,
+    "timeWeek": 2699,
+    "timeMonth": 2699,
+    "timeYear": 2699,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 9
     }
   },
   {
