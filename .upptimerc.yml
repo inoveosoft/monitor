@@ -4,7 +4,6 @@ repo: monitor # The name of this repository
 assignees: 
  - SlawekO
  - gkocoj
-
 sites:
   - name: Inoveo
     url: https://www.inoveo.pl
