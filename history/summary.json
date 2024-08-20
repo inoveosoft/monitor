@@ -4,18 +4,20 @@
     "url": "https://www.inoveo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2901,
-    "timeDay": 2901,
-    "timeWeek": 2901,
-    "timeMonth": 2901,
-    "timeYear": 2901,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2749,
+    "timeDay": 2749,
+    "timeWeek": 2749,
+    "timeMonth": 2749,
+    "timeYear": 2749,
+    "dailyMinutesDown": {
+      "2024-08-20": 0
+    }
   },
   {
     "name": "Sąd Okręgowy w Rzeszowie",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 1153,
-    "timeWeek": 1153,
-    "timeMonth": 1153,
-    "timeYear": 1153,
+    "time": 1186,
+    "timeDay": 1186,
+    "timeWeek": 1186,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {}
   }
 ]
