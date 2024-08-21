@@ -4,7 +4,7 @@
     "url": "https://www.inoveo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2725,
     "timeMonth": 2725,
     "timeYear": 2725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-21": 0
+    }
   },
   {
     "name": "Sąd Okręgowy w Rzeszowie",
