@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
     "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 2710,
-    "timeDay": 2611,
-    "timeWeek": 2710,
-    "timeMonth": 2710,
-    "timeYear": 2710,
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 2783,
+    "timeDay": 3886,
+    "timeWeek": 2783,
+    "timeMonth": 2783,
+    "timeYear": 2783,
     "dailyMinutesDown": {
       "2024-08-21": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 995,
-    "timeWeek": 1183,
-    "timeMonth": 1183,
-    "timeYear": 1183,
+    "time": 1199,
+    "timeDay": 1397,
+    "timeWeek": 1199,
+    "timeMonth": 1199,
+    "timeYear": 1199,
     "dailyMinutesDown": {}
   }
 ]
