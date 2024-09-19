@@ -4,9 +4,9 @@
     "url": "https://www.inoveo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 3156,
     "timeYear": 3156,
     "dailyMinutesDown": {
+      "2024-09-19": 0,
       "2024-09-14": 19,
       "2024-09-10": 20,
       "2024-08-21": 35
