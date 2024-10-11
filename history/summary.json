@@ -28,7 +28,7 @@
     "url": "https://rzeszow.so.gov.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/rzeszow.so.gov.pl.ico",
     "slug": "sad-okregowy-w-rzeszowie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 1248,
     "timeYear": 1204,
     "dailyMinutesDown": {
+      "2024-10-11": 0,
       "2024-09-29": 34
     }
   }
