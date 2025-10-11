@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 3917,
-    "timeDay": 5704,
-    "timeWeek": 4209,
-    "timeMonth": 3918,
-    "timeYear": 3995,
+    "time": 3916,
+    "timeDay": 3524,
+    "timeWeek": 4080,
+    "timeMonth": 3902,
+    "timeYear": 3992,
     "dailyMinutesDown": {
       "2025-09-01": 73,
       "2025-08-21": 171,
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rzeszow.so.gov.pl.ico",
     "slug": "sad-okregowy-w-rzeszowie",
     "status": "up",
-    "uptime": "77.88%",
+    "uptime": "77.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.82%",
     "time": 1332,
-    "timeDay": 2261,
-    "timeWeek": 1566,
-    "timeMonth": 1431,
+    "timeDay": 1001,
+    "timeWeek": 1561,
+    "timeMonth": 1428,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2025-09-01": 37,
@@ -136,8 +136,7 @@
       "2025-05-28": 43,
       "2025-05-05": 36,
       "2025-02-17": 306,
-      "2024-11-04": 149,
-      "2024-10-11": 32
+      "2024-11-04": 149
     }
   }
 ]
