@@ -4,13 +4,13 @@
     "url": "https://www.inoveo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.inoveo.pl.ico",
     "slug": "inoveo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.77%",
-    "time": 3770,
+    "time": 3768,
     "timeDay": 2558,
     "timeWeek": 3525,
     "timeMonth": 3441,
@@ -29,7 +29,8 @@
       "2026-04-17": 18,
       "2026-04-24": 81,
       "2026-05-06": 138,
-      "2026-06-03": 288
+      "2026-06-03": 288,
+      "2026-06-29": 2
     }
   },
   {
@@ -37,12 +38,12 @@
     "url": "https://rzeszow.so.gov.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/rzeszow.so.gov.pl.ico",
     "slug": "sad-okregowy-w-rzeszowie",
-    "status": "up",
+    "status": "down",
     "uptime": "86.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "83.35%",
+    "uptimeYear": "83.40%",
     "time": 1481,
     "timeDay": 1199,
     "timeWeek": 1486,
@@ -114,7 +115,8 @@
       "2026-03-14": 18,
       "2026-04-17": 18,
       "2026-05-06": 138,
-      "2026-06-03": 283
+      "2026-06-03": 283,
+      "2026-06-29": 0
     }
   }
 ]
